@@ -4,5 +4,6 @@ public class demo1 {
         System.out.println("Hello world!");
         System.out.print("hello git");
         System.out.print("hello arati");
+        //arati
     }
 }
